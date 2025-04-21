@@ -63,6 +63,5 @@ Trained models are saved under `saved_model/`.
 - Real-time edge deployment on IoT devices
 - Enhanced UI/UX and prediction feedback
 
-## 👥 Authors
-Group 48 — Mobile-Edge Collaboration Project
+
 
